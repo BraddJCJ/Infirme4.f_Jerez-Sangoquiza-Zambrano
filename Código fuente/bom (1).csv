@@ -1,0 +1,9 @@
+Nombre,Cantidad,Componente
+"PV1",1,"20 , null  Suministro de energía"
+"PV2",1,"12 , null  Suministro de energía"
+"RR1",1,"1 kΩ Resistencia"
+"RR3",1,"0.82 kΩ Resistencia"
+"RR2",1,"2.2 kΩ Resistencia"
+"RR4",1,"0.47 kΩ Resistencia"
+"MeterM11",1,"Voltaje Multímetro"
+"MeterM21",1,"Amperaje Multímetro"
