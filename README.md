@@ -20,7 +20,7 @@ Generales:
 
 Específicos:
 
-- Identifiar valores de tensión en la malla.
+- Identifiar el valor de tensión en la malla para uno de los componentes.
 - Calcular el valor de corriente circulada en una de las mallas del circuito.
 - Implementar el circuito en la plataforma virtual TINKERCAD.
 
@@ -52,14 +52,13 @@ Componentes:
 * 1 Multímetro (voltaje)
 * 1 Multímetro (amperaje)
 
-6.-  DESCRIPCCION DE PREREQUISITOS Y CONFIGURACIÓN:
-
-7.- CONCLUSIONES:
-
+6.- CONCLUSIONES:
+- Realizados los cálculos se demostró el teorema de superposición en este circuito.
+- Lugo de realizar el análisis se concluyó que el valor de tensión del componente a buscar fue de 952mV con las dos fuentes de tensión encendidas, mientras que para la malla analizada se obtuvo un valor de 25.5mA.
 
 
 8.-RECOMENDACIONES:
-
+Realizado el análisis se recomienda tener en cuenata la utilización de este teorema para mallas sencillas, puesto que toma bastante tiempo obtener un reultado con los cálculos analíticos. Cabe mencionar que existen otros métodos mucho más eficientes como el análisis por mallas.
 
 
 9.- CRONOGRAMA:
