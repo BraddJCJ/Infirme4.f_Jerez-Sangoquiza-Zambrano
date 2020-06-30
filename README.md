@@ -63,6 +63,7 @@ Componentes:
 
 
 9.- CRONOGRAMA:
+![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/Cronograma.png)
 
 10.- BIBLIOGRAFIA
 
