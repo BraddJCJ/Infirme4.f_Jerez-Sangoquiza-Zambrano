@@ -43,5 +43,13 @@ Componentes:
 
 5.- LISTA DE COMPONENTES:
 
-![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/C%C3%B3digo%20fuente/bom%20(1).csv)
+* 1 Resistor  R1  1   Kohm
+* 1 Resistor  R2  2.2 kohm 
+* 1 Resistor  R3  820 ohm
+* 1 Resistor  R4  470 ohm 
+* 1 Fuente de voltaje V1  20 v
+* 1 Fuente de voltaje V2  12 v
+* 1 Multímetro (voltaje)
+* 1 Multímetro (amperaje)
+
 
