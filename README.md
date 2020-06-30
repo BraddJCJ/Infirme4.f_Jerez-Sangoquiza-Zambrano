@@ -39,7 +39,9 @@ Circuito de la práctica:
 
 Componentes:
 
-![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/DiagramaP4.PNG)
+![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/DiagramaP4.png)
 
 5.- LISTA DE COMPONENTES:
+
+![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/C%C3%B3digo%20fuente/bom%20(1).csv)
 
