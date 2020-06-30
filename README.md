@@ -33,5 +33,13 @@ La superposición está basada en el principio de la linealidad. Para el anális
 
 4.- DIAGRAMAS:
 
+Circuito de la práctica:
 
+![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/CirP4.PNG)
+
+Componentes:
+
+![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/DiagramaP4.PNG)
+
+5.- LISTA DE COMPONENTES:
 
