@@ -2,7 +2,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
 ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Logo_ESPE.png)
 
-¨Práctica de Laboratorio N°3 Análisis de nodos¨  
+¨Práctica de Laboratorio N°4 Teorema de superposición¨  
 ¨Fundamentos de Circuitos Eléctricos¨  
 Integrantes: Jerez Bradd; Sangoquiza Andrés; Flores de Valgas Jonathan.  
 NRC: 8702   
@@ -56,11 +56,17 @@ Componentes:
 
 7.- CONCLUSIONES:
 
+
+
 8.-RECOMENDACIONES:
+
+
 
 9.- CRONOGRAMA:
 
 10.- BIBLIOGRAFIA
+
+ - Sadiku Matthew N. (2006). Fundamentos de Circuitos Eléctricos. McGraw-Hill Interamericana. México D. F.
 
 11.-ANEXOS:
 
@@ -71,4 +77,6 @@ Cálculo Analítico:
 ![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/img248_page-0001.jpg)
 
 ![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/img249_page-0001.jpg)
+
+
 
