@@ -41,7 +41,7 @@ Componentes:
 
 ![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/DiagramaP4.png)
 
-Si V1 es cero:
+Si V2 es cero:
 
 ![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/Pr%C3%A1cticaN4.png)
 
