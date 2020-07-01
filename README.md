@@ -41,14 +41,6 @@ Componentes:
 
 ![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/DiagramaP4.png)
 
-Cuando V2 es cero:
-
-![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/Pr%C3%A1cticaN4.png)
-
-Cuando V1 es cero:
-
-![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/Pr%C3%A1cticaN4%20(2).png)
-
 5.- LISTA DE COMPONENTES:
 
 * 1 Resistor  R1  1   Kohm
@@ -63,6 +55,8 @@ Cuando V1 es cero:
 6.- CONCLUSIONES:
 - Realizados los cálculos se demostró el teorema de superposición en este circuito.
 - Lugo de realizar el análisis se concluyó que el valor de tensión del componente a buscar fue de 952mV con las dos fuentes de tensión encendidas, mientras que para la malla analizada se obtuvo un valor de 25.5mA.
+- Si la fuente de 12V está encendida, mientras que la de 20V está apagada, entonces el voltaje en el resistor planteado es de 6.53V y una corriente de 25.5mA para la malla.
+- Si la fuente de 20V está encendida, mientras que la de 12V está apagada, entonces el coltaje en el resistor planteado es de 5.7V y con una corriente de 6.95mA para la malla.
 
 
 8.-RECOMENDACIONES:
