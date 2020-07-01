@@ -43,11 +43,11 @@ Componentes:
 
 Cuando V2 es cero:
 
-![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/PráctinaN4.png)
+![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/Pr%C3%A1cticaN4.png)
 
 Cuando V1 es cero:
 
-![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/PrácticaN4 (2).png)
+![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/Pr%C3%A1cticaN4%20(2).png)
 
 5.- LISTA DE COMPONENTES:
 
