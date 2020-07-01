@@ -41,6 +41,15 @@ Componentes:
 
 ![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/DiagramaP4.png)
 
+Si V1 es cero:
+
+![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/Pr%C3%A1cticaN4.png)
+
+
+Si V1 es cero:
+
+![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/Pr%C3%A1cticaN4%20(2).png)
+
 5.- LISTA DE COMPONENTES:
 
 * 1 Resistor  R1  1   Kohm
