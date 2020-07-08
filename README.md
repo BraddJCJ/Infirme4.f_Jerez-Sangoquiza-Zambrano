@@ -99,5 +99,6 @@ Tabla 4.2. Medición de corriente aplicando superposición
 ![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/errores.1.png)
 
 
+![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/Hojas%20T%C3%A9cnicas/Analisis_de_Resultados%20(4).pdf)
 
 
