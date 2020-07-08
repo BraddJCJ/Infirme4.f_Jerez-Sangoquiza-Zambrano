@@ -26,8 +26,8 @@ Específicos:
 
 3.- MARCO TEORICO:
 
-El análisis de superposición, únicamente es efectible siempre y cuando existan dos o más fuentes de tensión o correinte ¨independioentes¨. Donde la sumatoria de las tensiones de estas fuentes resulta en el valor de voltaje de la componente a buscar. 
-La superposición está basada en el principio de la linealidad. Para el análisis de superposición, se recaalca la importancia de la contribución independiente de una fuente, además, existen condiciones para un correcto cálculo mediante este teorema.
+El análisis de superposición, únicamente es efectible siempre y cuando existan dos o más fuentes de tensión o correinte ¨independioentes¨. Donde la sumatoria de las tensiones de estas fuentes resulta en el valor de voltaje del componente a buscar. 
+La superposición está basada en el principio de la linealidad. Para el análisis de superposición, se recalca la importancia de la contribución independiente de una fuente, además, existen condiciones para un correcto cálculo mediante este teorema.
 - Se considera que únicamente una de las 2 o mas fuentes esta encendida mientras que el resto de fuentes ¨de tensión o corriente¨ permanecen apagadas. Este proceso se realizaría individualmente para cada fuente independiente.
 - No habrá ningún cambio o similitud del circuito respecto al punto anterior para fuentes dependientes. 
 
@@ -69,7 +69,7 @@ Si V1 es cero:
 
 
 8.-RECOMENDACIONES:
-Realizado el análisis se recomienda tener en cuenata la utilización de este teorema para mallas sencillas, puesto que toma bastante tiempo obtener un reultado con los cálculos analíticos. Cabe mencionar que existen otros métodos mucho más eficientes como el análisis por mallas.
+Realizado el análisis se recomienda tener en cuenata la utilización de este teorema para mallas sencillas, puesto que toma bastante tiempo obtener un reultado con los cálculos analíticos. Cabe mencionar que existen otros métodos mucho más eficientes como el análisis por mallas en el que se puede aplicar directamente la LTK y LCK.
 
 
 9.- CRONOGRAMA:
