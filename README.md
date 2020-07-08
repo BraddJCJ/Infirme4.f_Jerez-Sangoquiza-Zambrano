@@ -91,15 +91,13 @@ Cálculo Analítico:
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
 
-![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/Tabla1.png)
+![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/errores.3.png)
 
-![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/Errores%20voltaje.png)
 
 Tabla 4.2. Medición de corriente aplicando superposición
 
-![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/Tabla2.png)
+![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/errores.1.png)
 
-![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/ErroresCorriente.png)
 
 
 
