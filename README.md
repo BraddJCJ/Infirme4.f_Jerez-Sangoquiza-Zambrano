@@ -85,9 +85,13 @@ Cálculo Analítico:
 
 ![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/Hojas%20T%C3%A9cnicas/An%C3%A1lisis1.png)
 
-![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/img248_page-0001.jpg)
+![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/Hojas%20T%C3%A9cnicas/An%C3%A1lisis2.png)
 
-![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/img249_page-0001.jpg)
+![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/Hojas%20T%C3%A9cnicas/An%C3%A1lisis3.png)
+
+![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/Hojas%20T%C3%A9cnicas/An%C3%A1lisis4.png)
+
+![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/Hojas%20T%C3%A9cnicas/An%C3%A1lisis5.png)
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
 
