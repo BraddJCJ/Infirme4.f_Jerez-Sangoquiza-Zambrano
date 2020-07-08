@@ -83,7 +83,7 @@ Realizado el análisis se recomienda tener en cuenata la utilización de este te
 
 Cálculo Analítico:
 
-![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/img247_page-0001.jpg)
+![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/Hojas%20T%C3%A9cnicas/An%C3%A1lisis1.png)
 
 ![](https://github.com/BraddJCJ/Infirme4.f_Jerez-Sangoquiza-Zambrano/blob/master/img/img248_page-0001.jpg)
 
